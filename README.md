@@ -9,7 +9,7 @@ The perimeter of a rectangle with sides
 a and 𝑏
 b.The perimeter of a circle with radius 𝑅
 
-Exercice 3 :
+Exercice 3 : 
 
 ![image](https://github.com/user-attachments/assets/48b515fd-a6c4-4566-b8a9-714a98ecf0f7)
 
